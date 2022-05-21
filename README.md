@@ -1,4 +1,3 @@
-# Hi-👋
 
 ### Hi there 👋, I'm ***xzwq***
 Hello, I'm xzwq and interested in software. I'm improving myself on this. I have 3 active sites so far. ***([1](xzwq.software)) ([2](nebokayariyo.com)) ([3](xenephon.com))***
