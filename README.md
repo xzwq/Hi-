@@ -2,7 +2,11 @@
 ### Hi there 👋, I'm ***xzwq***
 Hello, I'm xzwq and interested in software. I'm improving myself on this. I have 3 active sites so far. ***([1](xzwq.software)) ([2](nebokayariyo.com)) ([3](xenephon.com))***
 
-Skills: VUE JS / JS / HTML / CSS/ PHP / GİT/ 
+## Skills
+⚛ React
+🔰 Vue.Js
+💻 HTML, CSS, JS, PHP
+ ℹ️ Git
 
 - 🔭 I’m currently working on https://xenephon.com 
 - 🌱 I’m currently learning Vue.js 
